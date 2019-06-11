@@ -24,6 +24,19 @@
 /script DEFAULT_CHAT_FRAME:AddMessage("\124cff1eff00\124Hitem:2818::::::::60:::::\124h[Stretched Leather Trousers]\124h\124r");
 /script DEFAULT_CHAT_FRAME:AddMessage("\124cff9d9d9d\124Hitem:1830::::::::60:::::\124h[Long Bastard Sword]\124h\124r");
 
+[artifact]
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:18582::::::::60:::::\124h[The Twin Blades of Azzinoth]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:18584::::::::60:::::\124h[Warglaive of Azzinoth (Left)]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:18583::::::::60:::::\124h[Warglaive of Azzinoth (Right)]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:12947::::::::60:::::\124h[Alex's Ring of Audacity]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:6711::::::::60:::::\124h[Stone of Kurtz]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:6707::::::::60:::::\124h[Stone of Lapidis]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:6724::::::::60:::::\124h[Stone of Backus]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:6728::::::::60:::::\124h[Stone of Brownell]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:6698::::::::60:::::\124h[Stone of Pierce]\124h\124r");
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cffe5cc80\124Hitem:6708::::::::60:::::\124h[Stone of Goodman]\124h\124r");
+
+
 [misc]
 /script DEFAULT_CHAT_FRAME:AddMessage("\124cffffd000\124Henchant:16991\124h[Blacksmithing: Annihilator]\124h\124r");
 

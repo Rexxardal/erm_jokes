@@ -1,4 +1,4 @@
-# erm_jokes
+# not_4n4L_jokes :D
 
 /script DEFAULT_CHAT_FRAME:AddMessage("\124cffffd000\124Henchant:16991\124h[Blacksmithing: Annihilator]\124h\124r");
 /script DEFAULT_CHAT_FRAME:AddMessage("\124cffffd000\124Hspell:18123\124h[Aftermath]\124h\124r");
